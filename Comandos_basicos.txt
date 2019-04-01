@@ -5,4 +5,9 @@ Basic commands:
     git commit        ----> Para pasar de Staging Area al Repositorio
     git push          ----> Practicamente para subir a un servidor o subirlo al GitHub
     git pull          ----> Trae los cambios que han hecho otros desarrolladores
-    git diff<archivo>          ----> Muestra los cambios que se hicieron anteriormente
+    git diff<archivo> ----> Muestra los cambios que se hicieron anteriormente
+
+    git config --global user.email "Un mail" ---> le da un correo al desarrollador que edita el codigo
+    git config --global user.name "Santiago" ---> le da un nombre al ...
+
+    git commit -m "Lo que dice el commit"    ---> Evita entrar al editor de texto de git 
