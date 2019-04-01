@@ -5,4 +5,4 @@ Basic commands:
     git commit        ----> Para pasar de Staging Area al Repositorio
     git push          ----> Practicamente para subir a un servidor o subirlo al GitHub
     git pull          ----> Trae los cambios que han hecho otros desarrolladores
-    git clone         ---->
+    git diff<archivo>          ----> Muestra los cambios que se hicieron anteriormente
