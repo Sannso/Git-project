@@ -1,0 +1,4 @@
+Para fucionar ramas debebos primero que posicionarnos en al rama que va a absorber a la otra
+en este caso, nos Ubicamos en la rama "master" y absorbermos a la otra rama.
+
+Luego se utiliza el comando para fucionar que es: git merger <rama_que_es_absorbida>
