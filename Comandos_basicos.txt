@@ -1,10 +1,12 @@
 Basic commands:
     git init              ----> Es como decirle a git que vamos a utilizarlo en un proyecto
     git add<file>         ----> Es para pasar los archivos de Working Directory al Staging Area(Para trabajarlos en git)
-    git add .             ----> Agregar todo para evitar hacerlo uno por uno 
+    git add .             ----> Agregar todo para evitar hacerlo uno por uno
     git status            ----> Para saber donde se encuentran los archivos(Working directory, staging area, respository)
     git commit            ----> Para pasar de Staging Area al Repositorio
     git push              ----> Practicamente para subir a un servidor o subirlo al GitHub
+    git remote add origin https://github.com/Sannso/Git-project
+    git push -u origin master
     git pull              ----> Trae los cambios que han hecho otros desarrolladores
     git diff<archivo>     ----> Muestra los cambios que se hicieron anteriormente
     git branch            ----> Muestra la version en la que estoy trabajando
