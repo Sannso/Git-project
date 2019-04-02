@@ -1,4 +1,0 @@
-Primero en GitHub dar en Clone or Download,
-Luego se copia la direccion,
-Con git bash nos ubicamos en el lugar que lo vamos a clonar,
-Y escribimos: git clone "aqui va la direccion de GitHub" 
